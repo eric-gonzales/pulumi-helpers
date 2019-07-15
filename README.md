@@ -1,3 +1,3 @@
-# Pulumi
+# Pulumi Helpers
 
-Some handy Pulumi scripts
+Useful helper functions for Pulumi
