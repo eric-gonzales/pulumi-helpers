@@ -1,0 +1,25 @@
+{
+  "name": "pulumi",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@pulumi/pulumi": "^0.17.22"
+  },
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-gonzales/pulumi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-gonzales/pulumi/issues"
+  },
+  "homepage": "https://github.com/eric-gonzales/pulumi#readme"
+}
